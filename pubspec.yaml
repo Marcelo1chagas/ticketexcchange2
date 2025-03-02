@@ -196,7 +196,7 @@ flutter:
     - assets/rive_animations/
     - assets/pdfs/
     - assets/jsons/
-    - assets/json/party-now-app-72829850cc25.json
+    - assets/json/party-now-app-72829850cc25.json/
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
