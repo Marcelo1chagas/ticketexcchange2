@@ -13,7 +13,7 @@
         android:icon="@mipmap/ic_launcher"
         android:requestLegacyExternalStorage="true">
         <meta-data android:name="com.facebook.sdk.ApplicationId" 
-        android:value="@string/facebook_app_id"/>
+        android:value="313260701635155"/>
         <meta-data android:name="com.facebook.sdk.ClientToken" 
         android:value="d490e898d5bf7e83a5d8dbe0cba5df62"/>
         <activity android:name="com.facebook.FacebookActivity"
