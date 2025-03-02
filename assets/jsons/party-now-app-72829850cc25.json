@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "party-now-app",
+  "private_key_id": "72829850cc25c65471ee26c52d944a76ea70726d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCaSFR1RVgCAjMZ\nUeQT/iWFAOWrz2rbnP5NLS4ah0VK6JXnv0xrQnssPvcVAcN8HQYPKa17TsBdAcwP\n0tqtBv8U2+3nOmHBa6WoPc8D2DI936Nvfpyr2QmjSKTd47G8WaaTYhIcsR6LVmpb\nAXRG1BwVePZ/3BXwKStJ0lPQYEAUB44SyslHJMCzgxI0zZox2ePsvRHSmgGk5f7y\nZP335/A8StBPsVW88Rg0PwTmGJl0KA2esTTPCwPBmVshkX6W745uaRvciPnrKk2n\nlGjVlGO/wfKkqZtv0XJF9ujoHkkECRV7fMwyEqZZHL5rhQIlQokorqqvqAOlYv3F\nY+UF1lc9AgMBAAECggEAIdL5sTwir04MJeDuP/PYBfDMaX5vzvX8Sq89DFPbvTCA\nrO4jsuBAYNLtGI3qbatvSKO6hO4e/kUGl/GCP6zo/4m3/pmuFNmk1921JQKhAS+m\nhSsc7hAHLOUgQAVLUh/VhTpa/i9WovWvG4SWGXEnNw3t/NojdSORef3Cokx3v+wQ\nsIbbt+pZ4JeJNXlxcdyjkIDDS3ziZYsAFQ2+3Tet4LshRXBmW+j8iL7M01MhPBDH\nAOGR+URN1yijVxZfxInmt9zb3W0spBnA0e1zibZX/5RfLZeqi+uF1lZYsMeoLIHC\nhWkH4vu3vUBgaXUzwzZUvmwqGEbN/GdXfXKkzBIbgQKBgQDXAL8a2pF07o0Mm6lk\nABLPG9fgxcvi/KjpOCbrlwQ0DX5nLcPpA6Eyi3Qra3XkHumH3XI+V+LJiMyg937G\ncTQ+332f1DtS3taK1YWm7aaRUCUpq0oxujv8x9nxY9CxbajojehzdyvwSSd7lAsy\n/wva9i9UsHdg+S4TBv4UrKgOdwKBgQC3s4zjeHDFBIIbCEZMOqYzXsl4q+AeCzUA\noXq5PSNlFY0WcyUW+y1AkX/GV0llz4G/Bqb3IKqqn5jw53oUmnD9bKWS8MQQyhM+\n6AoZTBmxi+ZbeBxGS7Y2LBQlko0BRvJwFCTt5ZlDlhXNNuB8nKBNeJxDGkGg57Ft\nOV7ulutw6wKBgEn1Z8fFB+RBayO7KDnODKpR2aDoaYpbf386YakI+dkuCx1TEOFG\n7lyEvCFzhcpDF/I0qufnM4xAEqQMfv+kUWSPXJduWjnXjdWUPbV+ap3yA9ahpZQV\njC0YUlBHFbLzFfdpWVze0a6Ge552/qM8OMfJh96KFYa2MLM65IwYGHdhAoGAX7Ht\nBuJK/Jcon6Rj2noC8mfCVFZU3dHAvp9gKvcqZRIg+TzqaVpXbHdfNJdr6Nl8IWL5\nv2sI/PE+3t/2vJznl1zts+oweP6LoA2IlT0LdW4Hhka/k+8E8Jtts1Twl2W6DaCw\nzCz69jZNDSY1MzT0XOcjn+EhpwyLZPap+WgtJhkCgYBrNuybdf2/l9zAs7ANe08P\nDtEujzKlJ5cVDdRyq63KsHJMsBLsLR/mCLTEOfj5kHSdQ0vDgwXil1kWL4U98cV2\njPlNejtbttBu6/Zdc3N6EB9huHSci3o2wRN1iFkiZpEivfwBVrFWSXgvbqI1VWIF\ne7YNEFVVpqF9Q4dZ5T7cag==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ticket-exchange-google-play-fl@party-now-app.iam.gserviceaccount.com",
+  "client_id": "107056403018115097361",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ticket-exchange-google-play-fl%40party-now-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
