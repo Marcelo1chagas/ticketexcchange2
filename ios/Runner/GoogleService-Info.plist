@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>16332291329-ghcvchm2epu1jqbleavp3s41qglo3mh6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAtyzw7FuRR72xbyoFad7geTbvtCFP4e24</string>
+	<key>GCM_SENDER_ID</key>
+	<string>16332291329</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.ticketpartynowtmaingresso</string>
+	<key>PROJECT_ID</key>
+	<string>party-now-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>party-now-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:16332291329:ios:f567a4f3a9a956a903af00</string>
+</dict>
+</plist>

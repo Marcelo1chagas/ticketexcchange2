@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "16332291329",
+    "project_id": "party-now-app",
+    "storage_bucket": "party-now-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16332291329:android:cc93817bcbdb402903af00",
+        "android_client_info": {
+          "package_name": "com.mycompany.apppartynowtemamusica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16332291329-ghcvchm2epu1jqbleavp3s41qglo3mh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.apppartynowtemamusica",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "16332291329-bnleakmp5njbbg47tvo2a4dhtcuhriq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6YW1g5ALQGuhWtfjvXNPNzWyjmGn7yhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16332291329-bnleakmp5njbbg47tvo2a4dhtcuhriq5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "16332291329-hhuiome9o65qj0kg713sk3ubb572qn1c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.apppartynowtemamusica"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16332291329:android:1274b4656b1b0d8603af00",
+        "android_client_info": {
+          "package_name": "com.mycompany.ticketpartynowtmaingresso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16332291329-bnleakmp5njbbg47tvo2a4dhtcuhriq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6YW1g5ALQGuhWtfjvXNPNzWyjmGn7yhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16332291329-bnleakmp5njbbg47tvo2a4dhtcuhriq5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "16332291329-hhuiome9o65qj0kg713sk3ubb572qn1c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.apppartynowtemamusica"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

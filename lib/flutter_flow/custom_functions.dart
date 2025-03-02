@@ -1,0 +1,52 @@
+import 'dart:convert';
+import 'dart:math' as math;
+
+import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:intl/intl.dart';
+import 'package:timeago/timeago.dart' as timeago;
+import 'lat_lng.dart';
+import 'place.dart';
+import 'uploaded_file.dart';
+import '/backend/backend.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import '/backend/schema/structs/index.dart';
+import '/auth/firebase_auth/auth_util.dart';
+
+double fUNCAOdeSOMAingresso(
+  double iNICIALvalur,
+  double numero1,
+) {
+  return iNICIALvalur + numero1;
+}
+
+double fUNCAOdeSUBTRACAOingresso(double ingressoVALOR) {
+  return ingressoVALOR * -1;
+}
+
+double valorTotalareceber(double valordoingresso) {
+  return -0.09 * valordoingresso;
+}
+
+double totalcorreto(
+  double valorr1,
+  double valorr2,
+) {
+  return valorr1 + valorr2;
+}
+
+int? ratingFunction(List<int>? ratings) {
+  // give me avarage list of ratings
+  if (ratings == null || ratings.isEmpty) {
+    return null;
+  }
+  int sum = 0;
+  for (int rating in ratings) {
+    sum += rating;
+  }
+  return (sum / ratings.length).round();
+}
+
+int pagarMEvalor(int valortotal) {
+  return valortotal * 100;
+}
