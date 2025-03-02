@@ -19,6 +19,9 @@ version: 4.0.0+2
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
+flutter:
+  assets:
+    - assets/json/party-now-app-72829850cc25.json
 
 dependencies:
   flutter:
